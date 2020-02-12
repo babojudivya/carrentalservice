@@ -1,6 +1,6 @@
 # carrentalservice
 
-End to End car rental service like
+End to End car rental service like 'enterprise' or 'hertz'
 
 Features: 
 Admin can add/delete users
